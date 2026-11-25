@@ -1,0 +1,8 @@
+
+streamlit
+groq
+chromadb
+sentence-transformers
+pandas
+python-dotenv
+pydantic
